@@ -169,6 +169,8 @@ public class ConfigurationManager
 
 ## Structural Design Patterns
 
+Structural Design Patterns are a set of design principles used in software engineering to solve common problems related to object composition, simplify code, and enhance flexibility and scalability. They focus on the relationships between objects and how they can be structured to achieve better code organization.
+
 # Adapter Pattern
 Problem: Integrating new components or libraries with incompatible interfaces into an existing system can be problematic.
 
@@ -297,6 +299,8 @@ public class ExtraCheese : PizzaDecorator
 ```
 
 ## Behavioral Design Patterns
+
+Behavioral Design Patterns in software engineering focus on how objects interact and communicate with each other. They deal with the responsibility distribution among objects and describe patterns for managing algorithms, responsibilities, and communication between objects.
 
 # Observer Pattern
 Problem: Establishing dependencies between objects that need to be notified of changes in another object’s state can lead to tight coupling.
